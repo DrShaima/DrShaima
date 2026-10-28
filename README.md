@@ -27,6 +27,9 @@ These manuscripts are in preparation.
 
 ## Educational projects
 
+**[Understanding neural networks through visual examples](https://github.com/DrShaima/neural-network-visual-introduction)**  
+A visual Python/PyTorch tutorial on weights, biases, activation functions, learning curves, and overfitting, with seven credited figures and reproducible synthetic experiments.
+
 **[Gaussian-process regression: prediction and uncertainty](https://github.com/DrShaima/gp-regression-tutorial)**  
 A standalone Python tutorial with synthetic data, an executed notebook, and reproducible examples of latent-function and future-observation uncertainty, length-scale sensitivity, and extrapolation.
 
