@@ -25,6 +25,11 @@ I am preparing two manuscripts for journal submission, currently being reviewed 
 
 These manuscripts are in preparation.
 
+## Educational projects
+
+**[Gaussian-process regression: prediction and uncertainty](https://github.com/DrShaima/gp-regression-tutorial)**  
+A standalone Python tutorial with synthetic data, an executed notebook, and reproducible examples of latent-function and future-observation uncertainty, length-scale sensitivity, and extrapolation.
+
 ## Technical skills
 
 **Programming and statistical software:** Python, R, SAS, and SPSS  
