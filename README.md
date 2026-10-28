@@ -1,30 +1,36 @@
-### Hi there, I'm Shaima 👋
+# Sheima Alameeri, PhD
 
-I'm a statistician with a passion for data and artificial intelligence. Currently, I'm pursuing my Ph.D. with a focus on AI and its applications in statistics. My research revolves around harnessing the power of data and cutting-edge AI techniques to extract meaningful insights.
+I am a statistician whose research focuses on statistical machine learning, Gaussian processes, neural tangent kernels, and predictive uncertainty. I completed my PhD in Applied Statistics and Research Methods at the University of Northern Colorado in August 2026 under the supervision of Dr. Han Yu. I am based in Colorado, USA.
 
-#### 💼 Current Work:
+## Research interests
 
-- 🎓 Ph.D. Candidate at University of Northern Colorado
-- 🧠 Exploring the intersection of AI and statistics
-- 💻 Coding and analyzing data in R, Python, SAS, and SPSS
+- Gaussian-process regression and neural tangent kernels
+- High-dimensional statistical learning
+- Predictive uncertainty and model evaluation
+- Exact and sparse probabilistic models
+- Explainable AI and the evaluation of model explanations
 
-#### 🌱 What I'm Experienced In:
+## Dissertation and current research
 
-- 📊 Data Analysis and Visualization
-- 🤖 Machine Learning and Deep Learning
-- 📈 Statistical Modeling
-- 🧬 Data Preprocessing
-- 🧪 Experimentation and A/B Testing
-- 📉 Predictive Analytics
+**Adaptive Neural Tangent Kernels for Exact and Sparse Gaussian Process Regression**
 
-#### 🛠️ Tools and Technologies:
+My dissertation compared analytic and empirical neural tangent kernels within exact and sparse Gaussian-process regression. Through simulation studies and real-data applications, I evaluated predictive performance, uncertainty estimates, and computational cost across different modeling configurations.
 
-- 💻 R
-- 🐍 Python
-- 📊 SAS
-- 📈 SPSS
+[Dissertation record on ProQuest](https://www.proquest.com/docview/3376856555)
 
-#### 📫 Connect with Me:
+I am preparing two manuscripts for journal submission, currently being reviewed by my professor:
 
-- 📧 Email: Sheima.Alameeri@gmail.com
+- **Adaptive neural tangent kernels for Gaussian-process regression:** A manuscript based on my dissertation research.
+- **Explainable AI evaluation:** A manuscript examining fidelity, agreement, and recourse in post-hoc explanations.
 
+These manuscripts are in preparation.
+
+## Technical skills
+
+**Programming and statistical software:** Python, R, SAS, and SPSS  
+**Machine-learning framework:** PyTorch  
+**Research methods:** Statistical modeling, simulation studies, regression, predictive evaluation, and data analysis and visualization
+
+## Contact
+
+[sheima.alameeri@gmail.com](mailto:sheima.alameeri@gmail.com)
