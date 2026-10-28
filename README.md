@@ -27,6 +27,10 @@ These manuscripts are in preparation.
 
 ## Educational projects
 
+**[Prediction Intervals and Coverage](https://github.com/DrShaima/prediction-intervals-and-coverage)**  
+Synthetic-data examples comparing confidence and prediction intervals, local coverage under model misspecification, interval width, and Monte Carlo uncertainty.
+
+
 **[Understanding neural networks through visual examples](https://github.com/DrShaima/neural-network-visual-introduction)**  
 A visual Python/PyTorch tutorial on weights, biases, activation functions, learning curves, and overfitting, with seven credited figures and reproducible synthetic experiments.
 
